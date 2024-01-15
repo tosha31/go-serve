@@ -6,4 +6,4 @@ _github.com/gin-gonic/gin_\
 HTTP server built with go for exploration on different packages and architecture.\
 TEMPL\
 HTMX\
-V2 - 4-gateway
+V2 - 4-API-Gateway
