@@ -7,4 +7,6 @@ HTTP server built with go for exploration on different packages and architecture
 TEMPL\
 HTMX\
 V2 - 4-API-Gateway\
-CAPO-Gateway
+CAPO-Gateway\
+Vue-3
+
